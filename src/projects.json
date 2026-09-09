@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "herlian",
+    "brand": "Herlian",
+    "category": "首页设计",
+    "en": "Homepage design",
+    "cover": "/figma/302-120.webp",
+    "items": [
+      {
+        "title": "26秋冬",
+        "category": "Herlian",
+        "type": "image",
+        "thumb": "/works/001-thumb.webp",
+        "width": 1200,
+        "height": 17568,
+        "pages": [
+          {
+            "src": "/works/001-p0.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p1.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p2.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p3.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p4.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p5.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p6.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/001-p7.webp",
+            "width": 1200,
+            "height": 2168
+          }
+        ]
+      },
+      {
+        "title": "双十二",
+        "category": "Herlian",
+        "type": "image",
+        "thumb": "/works/002-thumb.webp",
+        "width": 1200,
+        "height": 27633,
+        "pages": [
+          {
+            "src": "/works/002-p0.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p1.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p2.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p3.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p4.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p5.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p6.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p7.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p8.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p9.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p10.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p11.webp",
+            "width": 1200,
+            "height": 2200
+          },
+          {
+            "src": "/works/002-p12.webp",
+            "width": 1200,
+            "height": 1233
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baccarat",
+    "brand": "Baccarat",
+    "category": "首页设计",
+    "en": "Homepage design",
+    "cover": "/figma/303-128.webp",
+    "items": [
+      {
+        "title": "618活动",
+        "category": "Baccarat",
+        "type": "image",
+        "thumb": "/works/003-thumb.webp",
+        "width": 1125,
+        "height": 17620,
+        "pages": [
+          {
+            "src": "/works/003-p0.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p1.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p2.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p3.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p4.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p5.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p6.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p7.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/003-p8.webp",
+            "width": 1125,
+            "height": 20
+          }
+        ]
+      },
+      {
+        "title": "婚礼季活动",
+        "category": "Baccarat",
+        "type": "image",
+        "thumb": "/works/004-thumb.webp",
+        "width": 1125,
+        "height": 18137,
+        "pages": [
+          {
+            "src": "/works/004-p0.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p1.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p2.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p3.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p4.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p5.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p6.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p7.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/004-p8.webp",
+            "width": 1125,
+            "height": 537
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rimowa",
+    "brand": "RIMOWA",
+    "category": "首页设计",
+    "en": "Homepage design",
+    "cover": "/figma/304-153.webp",
+    "items": [
+      {
+        "title": "CNY活动",
+        "category": "RIMOWA",
+        "type": "image",
+        "thumb": "/works/005-thumb.webp",
+        "width": 726,
+        "height": 17843,
+        "pages": [
+          {
+            "src": "/works/005-p0.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p1.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p2.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p3.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p4.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p5.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p6.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p7.webp",
+            "width": 726,
+            "height": 2200
+          },
+          {
+            "src": "/works/005-p8.webp",
+            "width": 726,
+            "height": 243
+          }
+        ]
+      },
+      {
+        "title": "双十一活动",
+        "category": "RIMOWA",
+        "type": "image",
+        "thumb": "/works/006-thumb.webp",
+        "width": 750,
+        "height": 15691,
+        "pages": [
+          {
+            "src": "/works/006-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p4.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p5.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p6.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/006-p7.webp",
+            "width": 750,
+            "height": 291
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moncler",
+    "brand": "Moncler",
+    "category": "首页设计",
+    "en": "Homepage design",
+    "cover": "/figma/304-158.webp",
+    "items": [
+      {
+        "title": "品牌日活动",
+        "category": "Moncler",
+        "type": "image",
+        "thumb": "/works/007-thumb.webp",
+        "width": 750,
+        "height": 18086,
+        "pages": [
+          {
+            "src": "/works/007-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p4.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p5.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p6.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p7.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/007-p8.webp",
+            "width": 750,
+            "height": 486
+          }
+        ]
+      },
+      {
+        "title": "七夕节活动",
+        "category": "Moncler",
+        "type": "image",
+        "thumb": "/works/008-thumb.webp",
+        "width": 750,
+        "height": 18590,
+        "pages": [
+          {
+            "src": "/works/008-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p4.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p5.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p6.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p7.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/008-p8.webp",
+            "width": 750,
+            "height": 990
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maje",
+    "brand": "Maje",
+    "category": "首页设计",
+    "en": "Homepage design",
+    "cover": "/figma/306-197.webp",
+    "items": [
+      {
+        "title": "狂暑季活动",
+        "category": "Maje",
+        "type": "image",
+        "thumb": "/works/009-thumb.webp",
+        "width": 750,
+        "height": 14032,
+        "pages": [
+          {
+            "src": "/works/009-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p4.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p5.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/009-p6.webp",
+            "width": 750,
+            "height": 832
+          }
+        ]
+      },
+      {
+        "title": "38节活动",
+        "category": "Maje",
+        "type": "image",
+        "thumb": "/works/010-thumb.webp",
+        "width": 750,
+        "height": 14101,
+        "pages": [
+          {
+            "src": "/works/010-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p4.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p5.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/010-p6.webp",
+            "width": 750,
+            "height": 901
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rimowa-story",
+    "brand": "RIMOWA",
+    "category": "专题页设计",
+    "en": "Landing Page design",
+    "cover": "/figma/306-205.webp",
+    "items": [
+      {
+        "title": "海洋蓝系列",
+        "category": "RIMOWA",
+        "type": "image",
+        "thumb": "/works/011-thumb.webp",
+        "width": 1125,
+        "height": 8317,
+        "pages": [
+          {
+            "src": "/works/011-p0.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/011-p1.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/011-p2.webp",
+            "width": 1125,
+            "height": 2200
+          },
+          {
+            "src": "/works/011-p3.webp",
+            "width": 1125,
+            "height": 1717
+          }
+        ]
+      },
+      {
+        "title": "品牌形象伙伴官宣",
+        "category": "RIMOWA",
+        "type": "image",
+        "thumb": "/works/012-thumb.webp",
+        "width": 750,
+        "height": 9804,
+        "pages": [
+          {
+            "src": "/works/012-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/012-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/012-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/012-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/012-p4.webp",
+            "width": 750,
+            "height": 1004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "moncler-story",
+    "brand": "Moncler",
+    "category": "专题页设计",
+    "en": "Landing Page design",
+    "cover": "/figma/310-259.webp",
+    "items": [
+      {
+        "title": "滑雪系列",
+        "category": "Moncler",
+        "type": "image",
+        "thumb": "/works/013-thumb.webp",
+        "width": 750,
+        "height": 8925,
+        "pages": [
+          {
+            "src": "/works/013-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/013-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/013-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/013-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/013-p4.webp",
+            "width": 750,
+            "height": 125
+          }
+        ]
+      },
+      {
+        "title": "户外系列",
+        "category": "Moncler",
+        "type": "image",
+        "thumb": "/works/014-thumb.webp",
+        "width": 750,
+        "height": 10323,
+        "pages": [
+          {
+            "src": "/works/014-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/014-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/014-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/014-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/014-p4.webp",
+            "width": 750,
+            "height": 1523
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maje-story",
+    "brand": "Maje",
+    "category": "专题页设计",
+    "en": "Landing Page design",
+    "cover": "/figma/309-239.webp",
+    "items": [
+      {
+        "title": "美少女系列",
+        "category": "Maje",
+        "type": "image",
+        "thumb": "/works/015-thumb.webp",
+        "width": 750,
+        "height": 8758,
+        "pages": [
+          {
+            "src": "/works/015-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/015-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/015-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/015-p3.webp",
+            "width": 750,
+            "height": 2158
+          }
+        ]
+      },
+      {
+        "title": "CNY系列",
+        "category": "Maje",
+        "type": "image",
+        "thumb": "/works/016-thumb.webp",
+        "width": 750,
+        "height": 10049,
+        "pages": [
+          {
+            "src": "/works/016-p0.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/016-p1.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/016-p2.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/016-p3.webp",
+            "width": 750,
+            "height": 2200
+          },
+          {
+            "src": "/works/016-p4.webp",
+            "width": 750,
+            "height": 1249
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "details",
+    "brand": "",
+    "category": "详情页设计",
+    "en": "Product Detail Page design",
+    "cover": "/figma/313-290.webp",
+    "items": [
+      {
+        "title": "圣诞详情",
+        "category": "Herlian",
+        "type": "image",
+        "thumb": "/works/017-thumb.webp",
+        "width": 1440,
+        "height": 17907,
+        "pages": [
+          {
+            "src": "/works/017-p0.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p1.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p2.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p3.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p4.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p5.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p6.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p7.webp",
+            "width": 1440,
+            "height": 2112
+          },
+          {
+            "src": "/works/017-p8.webp",
+            "width": 1440,
+            "height": 1011
+          }
+        ]
+      },
+      {
+        "title": "千夜系列 花瓶",
+        "category": "Baccarat",
+        "type": "image",
+        "thumb": "/works/018-thumb.webp",
+        "width": 790,
+        "height": 13011,
+        "pages": [
+          {
+            "src": "/works/018-p0.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/018-p1.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/018-p2.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/018-p3.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/018-p4.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/018-p5.webp",
+            "width": 790,
+            "height": 2011
+          }
+        ]
+      },
+      {
+        "title": "薄荷绿",
+        "category": "RIMOWA",
+        "type": "image",
+        "thumb": "/works/019-thumb.webp",
+        "width": 790,
+        "height": 13472,
+        "pages": [
+          {
+            "src": "/works/019-p0.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p1.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p2.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p3.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p4.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p5.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/019-p6.webp",
+            "width": 790,
+            "height": 272
+          }
+        ]
+      },
+      {
+        "title": "香水",
+        "category": "Moncler",
+        "type": "image",
+        "thumb": "/works/020-thumb.webp",
+        "width": 790,
+        "height": 11863,
+        "pages": [
+          {
+            "src": "/works/020-p0.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/020-p1.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/020-p2.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/020-p3.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/020-p4.webp",
+            "width": 790,
+            "height": 2200
+          },
+          {
+            "src": "/works/020-p5.webp",
+            "width": 790,
+            "height": 863
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brand",
+    "brand": "",
+    "category": "品牌设计",
+    "en": "Brand design",
+    "cover": "/figma/313-284.webp",
+    "items": [
+      {
+        "title": "26AW热销",
+        "category": "lookbook",
+        "type": "image",
+        "thumb": "/works/021-thumb.webp",
+        "width": 1440,
+        "height": 4095,
+        "pages": [
+          {
+            "src": "/works/021-p0.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p1.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p2.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p3.webp",
+            "width": 1440,
+            "height": 383
+          }
+        ]
+      },
+      {
+        "title": "26SS度假胶囊",
+        "category": "lookbook",
+        "type": "image",
+        "thumb": "/works/022-thumb.webp",
+        "width": 1440,
+        "height": 4973,
+        "pages": [
+          {
+            "src": "/works/022-p0.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p1.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p2.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p3.webp",
+            "width": 1440,
+            "height": 23
+          }
+        ]
+      },
+      {
+        "title": "12月订货会邀请函",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/023-thumb.webp",
+        "width": 1280,
+        "height": 1811,
+        "pages": [
+          {
+            "src": "/works/023-p0.webp",
+            "width": 1280,
+            "height": 1811
+          }
+        ]
+      },
+      {
+        "title": "3月订货会邀请函",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/024-thumb.webp",
+        "width": 1280,
+        "height": 1920,
+        "pages": [
+          {
+            "src": "/works/024-p0.webp",
+            "width": 1280,
+            "height": 1920
+          }
+        ]
+      },
+      {
+        "title": "七夕海报",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/025-thumb.webp",
+        "width": 1080,
+        "height": 1688,
+        "pages": [
+          {
+            "src": "/works/025-p0.webp",
+            "width": 1080,
+            "height": 1688
+          }
+        ]
+      },
+      {
+        "title": "内卖海报",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/026-thumb.webp",
+        "width": 854,
+        "height": 1688,
+        "pages": [
+          {
+            "src": "/works/026-p0.webp",
+            "width": 854,
+            "height": 1688
+          }
+        ]
+      },
+      {
+        "title": "新年视频",
+        "category": "宣传海报",
+        "src": "/works/027.mp4",
+        "type": "video"
+      },
+      {
+        "title": "展会布置1",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/028-thumb.webp",
+        "width": 1440,
+        "height": 497,
+        "pages": [
+          {
+            "src": "/works/028-p0.webp",
+            "width": 1440,
+            "height": 497
+          }
+        ]
+      },
+      {
+        "title": "展会布置2",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/029-thumb.webp",
+        "width": 1440,
+        "height": 960,
+        "pages": [
+          {
+            "src": "/works/029-p0.webp",
+            "width": 1440,
+            "height": 960
+          }
+        ]
+      },
+      {
+        "title": "展会布置3",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/030-thumb.webp",
+        "width": 1440,
+        "height": 960,
+        "pages": [
+          {
+            "src": "/works/030-p0.webp",
+            "width": 1440,
+            "height": 960
+          }
+        ]
+      },
+      {
+        "title": "展会布置4",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/031-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/031-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置5",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/032-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/032-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置6",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/033-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/033-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置7",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/034-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/034-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "包裹卡",
+        "category": "线下宣传",
+        "type": "image",
+        "thumb": "/works/035-thumb.webp",
+        "width": 1155,
+        "height": 851,
+        "pages": [
+          {
+            "src": "/works/035-p0.webp",
+            "width": 1155,
+            "height": 851
+          }
+        ]
+      },
+      {
+        "title": "折页宣传",
+        "category": "线下宣传",
+        "type": "image",
+        "thumb": "/works/036-thumb.webp",
+        "width": 1440,
+        "height": 1019,
+        "pages": [
+          {
+            "src": "/works/036-p0.webp",
+            "width": 1440,
+            "height": 1019
+          }
+        ]
+      }
+    ]
+  }
+]
