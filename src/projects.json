@@ -1,5 +1,305 @@
 [
   {
+    "id": "brand",
+    "brand": "",
+    "category": "品牌设计",
+    "en": "Brand design",
+    "cover": "/figma/313-284.webp",
+    "items": [
+      {
+        "title": "26AW热销",
+        "category": "lookbook",
+        "type": "image",
+        "thumb": "/works/021-thumb.webp",
+        "width": 1440,
+        "height": 4095,
+        "pages": [
+          {
+            "src": "/works/021-p0.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p1.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p2.webp",
+            "width": 1440,
+            "height": 1238
+          },
+          {
+            "src": "/works/021-p3.webp",
+            "width": 1440,
+            "height": 383
+          }
+        ]
+      },
+      {
+        "title": "26SS度假胶囊",
+        "category": "lookbook",
+        "type": "image",
+        "thumb": "/works/022-thumb.webp",
+        "width": 1440,
+        "height": 4973,
+        "pages": [
+          {
+            "src": "/works/022-p0.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p1.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p2.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/022-p3.webp",
+            "width": 1440,
+            "height": 23
+          }
+        ]
+      },
+      {
+        "title": "herlian",
+        "category": "campagin拍摄",
+        "type": "image",
+        "thumb": "/works/brand-campagin-thumb.webp",
+        "width": 1440,
+        "height": 6585,
+        "pages": [
+          {
+            "src": "/works/brand-campagin-p0.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/brand-campagin-p1.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/brand-campagin-p2.webp",
+            "width": 1440,
+            "height": 1650
+          },
+          {
+            "src": "/works/brand-campagin-p3.webp",
+            "width": 1440,
+            "height": 1635
+          }
+        ]
+      },
+      {
+        "title": "12月订货会邀请函",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/023-thumb.webp",
+        "width": 1280,
+        "height": 1811,
+        "pages": [
+          {
+            "src": "/works/023-p0.webp",
+            "width": 1280,
+            "height": 1811
+          }
+        ]
+      },
+      {
+        "title": "3月订货会邀请函",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/024-thumb.webp",
+        "width": 1280,
+        "height": 1920,
+        "pages": [
+          {
+            "src": "/works/024-p0.webp",
+            "width": 1280,
+            "height": 1920
+          }
+        ]
+      },
+      {
+        "title": "七夕海报",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/025-thumb.webp",
+        "width": 1080,
+        "height": 1688,
+        "pages": [
+          {
+            "src": "/works/025-p0.webp",
+            "width": 1080,
+            "height": 1688
+          }
+        ]
+      },
+      {
+        "title": "内卖海报",
+        "category": "宣传海报",
+        "type": "image",
+        "thumb": "/works/026-thumb.webp",
+        "width": 854,
+        "height": 1688,
+        "pages": [
+          {
+            "src": "/works/026-p0.webp",
+            "width": 854,
+            "height": 1688
+          }
+        ]
+      },
+      {
+        "title": "新年视频",
+        "category": "宣传海报",
+        "src": "/works/027.mp4",
+        "type": "video"
+      },
+      {
+        "title": "展会布置1",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/028-thumb.webp",
+        "width": 1440,
+        "height": 497,
+        "pages": [
+          {
+            "src": "/works/028-p0.webp",
+            "width": 1440,
+            "height": 497
+          }
+        ]
+      },
+      {
+        "title": "展会布置2",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/029-thumb.webp",
+        "width": 1440,
+        "height": 960,
+        "pages": [
+          {
+            "src": "/works/029-p0.webp",
+            "width": 1440,
+            "height": 960
+          }
+        ]
+      },
+      {
+        "title": "展会布置3",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/030-thumb.webp",
+        "width": 1440,
+        "height": 960,
+        "pages": [
+          {
+            "src": "/works/030-p0.webp",
+            "width": 1440,
+            "height": 960
+          }
+        ]
+      },
+      {
+        "title": "展会布置4",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/031-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/031-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置5",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/032-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/032-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置6",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/033-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/033-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "展会布置7",
+        "category": "展会宣传",
+        "type": "image",
+        "thumb": "/works/034-thumb.webp",
+        "width": 1280,
+        "height": 1707,
+        "pages": [
+          {
+            "src": "/works/034-p0.webp",
+            "width": 1280,
+            "height": 1707
+          }
+        ]
+      },
+      {
+        "title": "包裹卡",
+        "category": "线下宣传",
+        "type": "image",
+        "thumb": "/works/035-thumb.webp",
+        "width": 1155,
+        "height": 851,
+        "pages": [
+          {
+            "src": "/works/035-p0.webp",
+            "width": 1155,
+            "height": 851
+          }
+        ]
+      },
+      {
+        "title": "折页宣传",
+        "category": "线下宣传",
+        "type": "image",
+        "thumb": "/works/036-thumb.webp",
+        "width": 1440,
+        "height": 1019,
+        "pages": [
+          {
+            "src": "/works/036-p0.webp",
+            "width": 1440,
+            "height": 1019
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "herlian",
     "brand": "Herlian",
     "category": "首页设计",
@@ -995,276 +1295,6 @@
             "src": "/works/020-p5.webp",
             "width": 790,
             "height": 863
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "brand",
-    "brand": "",
-    "category": "品牌设计",
-    "en": "Brand design",
-    "cover": "/figma/313-284.webp",
-    "items": [
-      {
-        "title": "26AW热销",
-        "category": "lookbook",
-        "type": "image",
-        "thumb": "/works/021-thumb.webp",
-        "width": 1440,
-        "height": 4095,
-        "pages": [
-          {
-            "src": "/works/021-p0.webp",
-            "width": 1440,
-            "height": 1238
-          },
-          {
-            "src": "/works/021-p1.webp",
-            "width": 1440,
-            "height": 1238
-          },
-          {
-            "src": "/works/021-p2.webp",
-            "width": 1440,
-            "height": 1238
-          },
-          {
-            "src": "/works/021-p3.webp",
-            "width": 1440,
-            "height": 383
-          }
-        ]
-      },
-      {
-        "title": "26SS度假胶囊",
-        "category": "lookbook",
-        "type": "image",
-        "thumb": "/works/022-thumb.webp",
-        "width": 1440,
-        "height": 4973,
-        "pages": [
-          {
-            "src": "/works/022-p0.webp",
-            "width": 1440,
-            "height": 1650
-          },
-          {
-            "src": "/works/022-p1.webp",
-            "width": 1440,
-            "height": 1650
-          },
-          {
-            "src": "/works/022-p2.webp",
-            "width": 1440,
-            "height": 1650
-          },
-          {
-            "src": "/works/022-p3.webp",
-            "width": 1440,
-            "height": 23
-          }
-        ]
-      },
-      {
-        "title": "12月订货会邀请函",
-        "category": "宣传海报",
-        "type": "image",
-        "thumb": "/works/023-thumb.webp",
-        "width": 1280,
-        "height": 1811,
-        "pages": [
-          {
-            "src": "/works/023-p0.webp",
-            "width": 1280,
-            "height": 1811
-          }
-        ]
-      },
-      {
-        "title": "3月订货会邀请函",
-        "category": "宣传海报",
-        "type": "image",
-        "thumb": "/works/024-thumb.webp",
-        "width": 1280,
-        "height": 1920,
-        "pages": [
-          {
-            "src": "/works/024-p0.webp",
-            "width": 1280,
-            "height": 1920
-          }
-        ]
-      },
-      {
-        "title": "七夕海报",
-        "category": "宣传海报",
-        "type": "image",
-        "thumb": "/works/025-thumb.webp",
-        "width": 1080,
-        "height": 1688,
-        "pages": [
-          {
-            "src": "/works/025-p0.webp",
-            "width": 1080,
-            "height": 1688
-          }
-        ]
-      },
-      {
-        "title": "内卖海报",
-        "category": "宣传海报",
-        "type": "image",
-        "thumb": "/works/026-thumb.webp",
-        "width": 854,
-        "height": 1688,
-        "pages": [
-          {
-            "src": "/works/026-p0.webp",
-            "width": 854,
-            "height": 1688
-          }
-        ]
-      },
-      {
-        "title": "新年视频",
-        "category": "宣传海报",
-        "src": "/works/027.mp4",
-        "type": "video"
-      },
-      {
-        "title": "展会布置1",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/028-thumb.webp",
-        "width": 1440,
-        "height": 497,
-        "pages": [
-          {
-            "src": "/works/028-p0.webp",
-            "width": 1440,
-            "height": 497
-          }
-        ]
-      },
-      {
-        "title": "展会布置2",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/029-thumb.webp",
-        "width": 1440,
-        "height": 960,
-        "pages": [
-          {
-            "src": "/works/029-p0.webp",
-            "width": 1440,
-            "height": 960
-          }
-        ]
-      },
-      {
-        "title": "展会布置3",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/030-thumb.webp",
-        "width": 1440,
-        "height": 960,
-        "pages": [
-          {
-            "src": "/works/030-p0.webp",
-            "width": 1440,
-            "height": 960
-          }
-        ]
-      },
-      {
-        "title": "展会布置4",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/031-thumb.webp",
-        "width": 1280,
-        "height": 1707,
-        "pages": [
-          {
-            "src": "/works/031-p0.webp",
-            "width": 1280,
-            "height": 1707
-          }
-        ]
-      },
-      {
-        "title": "展会布置5",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/032-thumb.webp",
-        "width": 1280,
-        "height": 1707,
-        "pages": [
-          {
-            "src": "/works/032-p0.webp",
-            "width": 1280,
-            "height": 1707
-          }
-        ]
-      },
-      {
-        "title": "展会布置6",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/033-thumb.webp",
-        "width": 1280,
-        "height": 1707,
-        "pages": [
-          {
-            "src": "/works/033-p0.webp",
-            "width": 1280,
-            "height": 1707
-          }
-        ]
-      },
-      {
-        "title": "展会布置7",
-        "category": "展会宣传",
-        "type": "image",
-        "thumb": "/works/034-thumb.webp",
-        "width": 1280,
-        "height": 1707,
-        "pages": [
-          {
-            "src": "/works/034-p0.webp",
-            "width": 1280,
-            "height": 1707
-          }
-        ]
-      },
-      {
-        "title": "包裹卡",
-        "category": "线下宣传",
-        "type": "image",
-        "thumb": "/works/035-thumb.webp",
-        "width": 1155,
-        "height": 851,
-        "pages": [
-          {
-            "src": "/works/035-p0.webp",
-            "width": 1155,
-            "height": 851
-          }
-        ]
-      },
-      {
-        "title": "折页宣传",
-        "category": "线下宣传",
-        "type": "image",
-        "thumb": "/works/036-thumb.webp",
-        "width": 1440,
-        "height": 1019,
-        "pages": [
-          {
-            "src": "/works/036-p0.webp",
-            "width": 1440,
-            "height": 1019
           }
         ]
       }
